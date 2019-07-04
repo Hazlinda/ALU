@@ -106,3 +106,7 @@ ALU design.sv
         end     
 
      endmodule
+
+
+EDA playground link:
+https://www.edaplayground.com/x/3Ejf
